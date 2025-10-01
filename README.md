@@ -42,7 +42,6 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src='./Project 2- Flashcards Part 1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-https://submissions.us-east-1.linodeobjects.com/web102/CcbUGqdl.gif
 https://imgur.com/a/zqBI2qU
 
 <!-- Replace this with whatever GIF tool you used! -->

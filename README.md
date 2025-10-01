@@ -2,7 +2,7 @@
 
 Submitted by: **Jerry Rogers Jr.**
 
-This web app: **is about making a flashcards on Cartoons and Anime to see the user can answer the questions of their favorite Cartoons and Anime. It provides 10 questions on flashcards**
+This web app: **features interactive flashcards that incorporate popular cartoons and anime.   It includes 10 questions that test users' knowledge of their favorite shows, allowing them to flip the card to reveal the answers.**
 
 Time spent: **8** hours spent in total
 

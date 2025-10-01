@@ -120,7 +120,7 @@ return (
       </div>
     </div>
     {/* 5. Buttons to navigate flashcards*/}
-    <button onClick={backFlashcard}> Back Question</button>
+    <button onClick={backFlashcard}> Back Question</button> 
     <button onClick={nextFlashcard}>Next Question</button>
   </div>
 );

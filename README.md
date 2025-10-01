@@ -52,7 +52,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app. The challenge was the image card and flip card. It took some time to figure out how to make the flashcards that would flip and display the images.
 
 ## License
 

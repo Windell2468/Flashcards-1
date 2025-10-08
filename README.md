@@ -56,7 +56,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app. The challenge was the shuffled button and counter displays It took some time to figure out how to make the adding the features.
+ The challenge was the shuffled button and counter displays. It took some time to determine how to incorporate the features.
 
 ## License
 

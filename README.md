@@ -2,7 +2,7 @@
 
 Submitted by: **Jerry Rogers**
 
-This web app: **features interactive flashcards that incorporate popular cartoons and anime. It includes 10 questions that test users' knowledge of their favorite shows, allowing them to flip the card to reveal the answers. Adding few adjustments such as shuffled, colors, and counters.  **
+This web app: **features interactive flashcards that incorporate popular cartoons and anime. It includes 10 questions that test users' knowledge of their favorite shows, allowing them to flip the card to reveal the answers, and adding a few adjustments, such as shuffled cards, colors, and counters.**
 
 Time spent: **8** hours spent in total
 
